@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Hina Mincho', serif;
+  font-size: 1.5em;
+}
+
+h1 {
+  padding-top: 50px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #EAF6F6;
+  font-size: 60%;
+}
+
+h3 {
+  font-family: "Architects Daughter", cursive;
+  color: #66BFBF
+}
+.pro {
+  text-decoration: underline;
+}
+
+.top {
+  margin-top: 0;
+  background-color: #E4F9F5;
+}
+
+.middle {
+  background-color: #E4F9F5;
+}
+
+.bottom {
+  background-color: #66BFBF;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 160px;
+}
+.profile-pic {
+  padding-top: 50px;
+  width: 14%;
+  height: 20%
+}
+.skill-image {
+  display: inline-block;
+  width: 60%;
+  height: 20%
+}
+.skill-row {
+  width: 50%;
+  margin: 20px auto 20px auto;
+
+}
+
+.footer-link {
+  display:inline-block;
+  color: #11999E;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btn {
+  margin-bottom:100px;
+}
